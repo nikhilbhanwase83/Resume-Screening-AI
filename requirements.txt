@@ -1,23 +1,10 @@
-# AI Resume Screening & ATS Score Analyzer
-
-## Features
-- Upload PDF/DOCX resumes
-- Extract candidate information
-- Skill extraction
-- ATS score calculation
-- Resume recommendations
-- Interactive Streamlit dashboard
-
-## Tech Stack
-- Python
-- Streamlit
-- NLP
-- Scikit-learn
-- Pandas
-- Plotly
-
-## Installation
-
-pip install -r requirements.txt
-
-streamlit run app.py
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+pdfplumber
+python-docx
+nltk
+spacy
+reportlab
